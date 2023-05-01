@@ -1,2 +1,4 @@
 messages/node_modules
 notifications/node_modules
+messages/package-lock.json
+notifications/package-lock.json
